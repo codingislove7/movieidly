@@ -1,0 +1,29 @@
+# GET HOME PAGE
+# GET http://127.0.0.1:3001/
+
+# GET ALL GENRES
+# GET http://127.0.0.1:3001/api/genres
+
+# GET GENRES BY ID 
+# GET http://127.0.0.1:3001/api/genre/1
+
+# # POST A NEW GENRE
+# POST http://127.0.0.1:3001/api/genre/post/
+# content-type: application/json
+# # Authorization: token xxxxxxxxxxxxxxxxx
+
+# {
+#    "title":"sda"
+# }
+
+# # UPDATE A GENRE
+# PUT  http://127.0.0.1:3001/api/genre/update/1
+# content-type: application/json
+# # Authorization: token xxxxxxxxxxxxxxxxx
+
+# {
+# "title":"sda"
+# }
+
+# # DELETE A GENRE
+# DELETE http://127.0.0.1:3001/api/genre/delete/1
