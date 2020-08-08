@@ -1,0 +1,16 @@
+{
+  "name": "moviedly",
+  "version": "1.0.0",
+  "description": "a movie website",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Behnam Sheykhe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.2.0",
+    "underscore": "^1.10.2"
+  }
+}
