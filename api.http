@@ -2,7 +2,7 @@
 # GET http://127.0.0.1:3001/
 
 # GET ALL GENRES
-# GET http://127.0.0.1:3001/api/genres
+# GET http://127.0.0.1:3001/api/genre
 
 # GET GENRES BY ID 
 # GET http://127.0.0.1:3001/api/genre/1
