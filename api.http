@@ -1,5 +1,5 @@
 # GET HOME PAGE
-# GET http://127.0.0.1:3001/
+GET http://127.0.0.1:3001/
 
 # GET ALL GENRES
 # GET http://127.0.0.1:3001/api/genre
